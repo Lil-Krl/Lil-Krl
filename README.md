@@ -7,5 +7,4 @@
     Student, Beginner Web-Developer
     <br />
 
-    <img align="center" src="https://imgflip.com/gif/720rkx" width="500" height="300"/>  
-
+<a href="https://imgflip.com/gif/720rkx"><img src="https://imgflip.com/embed/720rkx"></a>
